@@ -27,8 +27,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 # Start pic
-START_PIC_FILE_ID = "https://files.catbox.moe/ufsz0x.jpg"
-START_IMG = "https://files.catbox.moe/clje6o.jpg"
+START_PIC_FILE_ID = "https://files.catbox.moe/ufsz0x.jpg https://files.catbox.moe/t09o37.jpg https://files.catbox.moe/pamuxq.jpg"
+START_IMG = "https://files.catbox.moe/clje6o.jpg https://files.catbox.moe/8eb8s6.jpg https://files.catbox.moe/t09o37.jpg"
 # Messages
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Thizz_zoro'>zoro</a></blockquote></b>")
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/Thizz_zoro>zoro</a>\n» Our Community: <a href=https://t.me/moviesandsrriesseries>Flix Network</a>\n» Anime Channel: <a href=https://t.me/all_in_one_animes_tamil>Anime Cruise</a>\n» Ongoing Anime: <a href=https://t.me/getmediachatbot>Ongoing cruise</a>\n» Developer: <a href=https://t.me/Thizz_zoro>zoro</a></b>")
